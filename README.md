@@ -27,6 +27,6 @@ This portfolio is licensed under the [MIT License](LICENSE.txt). Feel free to us
 You can reach out to me via the following channels:
 - Email: [lohithlalam@outlook.com](mailto:lohithlalam@outlook.com)
 - LinkedIn: [Lohith Lalam](https://www.linkedin.com/in/lohithlalam)
-- Personal Website: [Your Personal Website](https://www.yourwebsite.com)
+- Personal Website: 
 
 Feel free to get in touch for any inquiries, feedback, or collaboration opportunities. I look forward to connecting with you!
