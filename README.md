@@ -20,7 +20,7 @@ As this portfolio represents my personal work and achievements, contributions ar
 
 ## License
 
-This portfolio is licensed under the [MIT License](insert-license-file-link). Feel free to use it as a reference or template for creating your own portfolio, but please respect the original content and attribute appropriately.
+This portfolio is licensed under the [MIT License](LICENSE.txt). Feel free to use it as a reference or template for creating your own portfolio, but please respect the original content and attribute appropriately.
 
 ## Contact
 
