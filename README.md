@@ -22,11 +22,5 @@ As this portfolio represents my personal work and achievements, contributions ar
 
 This portfolio is licensed under the [MIT License](LICENSE.txt). Feel free to use it as a reference or template for creating your own portfolio, but please respect the original content and attribute appropriately.
 
-## Contact
-
-You can reach out to me via the following channels:
-- Email: [lohithlalam@outlook.com](mailto:lohithlalam@outlook.com)
-- LinkedIn: [Lohith Lalam](https://www.linkedin.com/in/lohithlalam)
-- Personal Website: 
 
 Feel free to get in touch for any inquiries, feedback, or collaboration opportunities. I look forward to connecting with you!
