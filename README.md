@@ -6,14 +6,6 @@ Welcome to my portfolio! This is a showcase of my skills, experiences, and proje
 
 In this portfolio, I have compiled a collection of my work, including web development projects, creative designs, and written content. It provides insights into my capabilities as a front-end developer, content writer, and data entry specialist.
 
-## Installation
-
-As this is a static portfolio website, there is no specific installation required. Simply visit the website URL to access and navigate through the various sections and projects.
-
-## Usage
-
-To navigate through my portfolio, you can use the menu or the provided links within each section. Explore my projects, work experience, and skills to get a better understanding of my capabilities. Feel free to reach out to me through the contact information provided if you have any inquiries or collaboration opportunities.
-
 ## Contributing
 
 As this portfolio represents my personal work and achievements, contributions are not expected. However, if you have any suggestions or feedback regarding the portfolio's design or content, I am open to hearing your thoughts.
